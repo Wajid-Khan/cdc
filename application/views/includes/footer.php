@@ -28,38 +28,32 @@
                 <div class="col-lg-3 col-md-12 mb-md-30">
                     <h4 class="footer-title">Services</h4>
                     <ul class="sitemap-widget clearfix">
-                        <li class="<?php echo url('/behavioural-therapy-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>behavioural-therapy-hyderabad">Behavioural Therapy</a></li>
-                        <li class="<?php echo url('/speech-therapy-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>speech-therapy-hyderabad">Speech Therapy</a></li>
-                        <li class="<?php echo url('/special-education') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>special-education">Special Education</a></li>
-                        <li class="<?php echo url('/best-parent-training') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>best-parent-training">Parent Training</a></li>
-                        <li class="<?php echo url('/psychotherapy-and-counselling') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>psychotherapy-and-counselling">Psychotherapy  & Counselling</a></li>
-                        <li class="<?php echo url('/yoga-therapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>yoga-therapy">Yoga Therapy</a></li>
-                        <li class="<?php echo url('/postural-and-mobility-therapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>postural-and-mobility-therapy">Postural & Mobility Therapy</a></li>
-                        <li class="<?php echo url('/early-intervention-services') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>early-intervention-services">Early Intervention Services</a></li>
+                        <li class="<?php echo url('service/behavioural-therapy-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/behavioural-therapy-hyderabad">Behavioural Therapy</a></li>
+                        <li class="<?php echo url('service/speech-therapy-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/speech-therapy-hyderabad">Speech Therapy</a></li>
+                        <li class="<?php echo url('service/special-education') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/special-education">Special Education</a></li>
+                        <li class="<?php echo url('service/best-parent-training') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/best-parent-training">Parent Training</a></li>
+                        <li class="<?php echo url('service/psychotherapy-and-counselling') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/psychotherapy-and-counselling">Psychotherapy  & Counselling</a></li>
+                        <li class="<?php echo url('service/yoga-therapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/yoga-therapy">Yoga Therapy</a></li>
+                        <li class="<?php echo url('service/postural-and-mobility-therapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/postural-and-mobility-therapy">Postural & Mobility Therapy</a></li>
+                        <li class="<?php echo url('service/early-intervention-services') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="service/early-intervention-services">Early Intervention Services</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 mb-md-30">
                     <h4 class="footer-title">&nbsp;</h4>
                     <ul class="sitemap-widget clearfix">
-                        <li class="<?php echo url('/cognitive-behavioural-therapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>cognitive-behavioural-therapy">Cognitive Behavioural Therapy</a></li> 
-                        <li class="<?php echo url('/occupational-therapy-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>occupational-therapy-hyderabad">Occupational Therapy</a></li>
-                        <li class="<?php echo url('/group-teaching') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>group-teaching">Group Teaching </a></li>
-                        <li class="<?php echo url('/teachers-training') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>teachers-training">Teachers' Training</a></li>
-                        <li class="<?php echo url('/certified-courses') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>certified-courses">Certified Courses</a></li>
-                        <li class="<?php echo url('/hydrotherapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>hydrotherapy">Hydrotherapy</a></li>
-                        <li class="<?php echo url('/best-developmental-pediatrician-in-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>best-developmental-pediatrician-in-hyderabad">Developmental Therapy</a></li>
-                        <li class="<?php echo url('/autism-therapy-in-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>autism-therapy-in-hyderabad">Autism Therapy</a></li>
+                        <li class="<?php echo url('service/cognitive-behavioural-therapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/cognitive-behavioural-therapy">Cognitive Behavioural Therapy</a></li> 
+                        <li class="<?php echo url('service/occupational-therapy-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/occupational-therapy-hyderabad">Occupational Therapy</a></li>
+                        <li class="<?php echo url('service/group-teaching') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/group-teaching">Group Teaching </a></li>
+                        <li class="<?php echo url('service/teachers-training') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/teachers-training">Teachers' Training</a></li>
+                        <li class="<?php echo url('service/certified-courses') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/certified-courses">Certified Courses</a></li>
+                        <li class="<?php echo url('service/hydrotherapy') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/hydrotherapy">Hydrotherapy</a></li>
+                        <li class="<?php echo url('service/best-developmental-pediatrician-in-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/best-developmental-pediatrician-in-hyderabad">Developmental Therapy</a></li>
+                        <li class="<?php echo url('service/autism-therapy-in-hyderabad') ? 'active' : ''; ?>"><i class="fa fa-angle-right"></i> <a href="<?php echo base_url() ?>service/autism-therapy-in-hyderabad">Autism Therapy</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12">
                     <h4 class="footer-title">Address</h4>
                     <div class="newsletter-text footer-contact">
-                        <!-- <p class="title-color">Thank you for visting us. Please subscribe to our newsletter today. </p> -->
-                        <!-- <form class="news-form">
-                            <input type="text" class="form-input" placeholder="Email Here">
-                            <button type="button" class="form-button">Subscribe</button>
-                        </form> -->
-                        
                         <div class="footer-contact-part mt-3">
                             <div class="contact-item mb-15">
                                 <div class="icon-part kinder-pulm">

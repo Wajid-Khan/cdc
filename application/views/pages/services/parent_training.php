@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-lg-8 mb-md-30">
                         <div class="h-img">
-                            <img src="<?php echo base_url() ?>assets/images/blog-single/1.jpg" alt="<?php echo $keywords; ?>">
+                            <img src="<?php echo base_url() ?>assets/img/services/service-10.webp" alt="<?php echo $keywords; ?>">
                         </div>
                         <div class="h-desc">
 							<h2 class="blog-single-title primary-color">Parent Training: Nurturing Happy and Healthy Families</h2>

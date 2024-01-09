@@ -67,22 +67,22 @@ $route['blog/single-blog']        = 'home/single_blog';
 $route['contact-us']   = 'home/contact_us';
 
 /*** Services Routes ***/
-$route['behavioural-therapy-hyderabad'] = 'home/behaviour_therapy_hyderabad';
-$route['speech-therapy-hyderabad']      = 'home/speech_therapy_hyderabad';
-$route['special-education']        		= 'home/special_education';
-$route['best-parent-training']        	= 'home/best_parent_training';
-$route['psychotherapy-and-counselling'] = 'home/psychotherapy_and_counselling';
-$route['yoga-therapy']        			= 'home/yoga_therapy';
-$route['postural-and-mobility-therapy'] = 'home/postural_and_mobility_therapy';
-$route['early-intervention-services']   = 'home/early_intervention_services';
-$route['cognitive-behavioural-therapy'] = 'home/cognitive_behavioural_therapy';
-$route['occupational-therapy-hyderabad'] = 'home/occupational_therapy_hyderabad';
-$route['group-teaching']        		= 'home/group_teaching';
-$route['teachers-training']        		= 'home/teachers_training';
-$route['certified-courses']        		= 'home/certified_courses';
-$route['hydrotherapy']        			= 'home/hydrotherapy';
-$route['best-developmental-pediatrician-in-hyderabad'] = 'home/best_developmental_pediatrician_in_hyderabad';
-$route['autism-therapy-in-hyderabad']   = 'home/autism_therapy';
+$route['service/behavioural-therapy-hyderabad'] = 'home/behaviour_therapy_hyderabad';
+$route['service/speech-therapy-hyderabad']      = 'home/speech_therapy_hyderabad';
+$route['service/special-education']        		= 'home/special_education';
+$route['service/best-parent-training']        	= 'home/best_parent_training';
+$route['service/psychotherapy-and-counselling'] = 'home/psychotherapy_and_counselling';
+$route['service/yoga-therapy']        			= 'home/yoga_therapy';
+$route['service/postural-and-mobility-therapy'] = 'home/postural_and_mobility_therapy';
+$route['service/early-intervention-services']   = 'home/early_intervention_services';
+$route['service/cognitive-behavioural-therapy'] = 'home/cognitive_behavioural_therapy';
+$route['service/occupational-therapy-hyderabad'] = 'home/occupational_therapy_hyderabad';
+$route['service/group-teaching']        		= 'home/group_teaching';
+$route['service/teachers-training']        		= 'home/teachers_training';
+$route['service/certified-courses']        		= 'home/certified_courses';
+$route['service/hydrotherapy']        			= 'home/hydrotherapy';
+$route['service/best-developmental-pediatrician-in-hyderabad'] = 'home/best_developmental_pediatrician_in_hyderabad';
+$route['service/autism-therapy-in-hyderabad']   = 'home/autism_therapy';
 /*** Services Routes ***/
 
 
